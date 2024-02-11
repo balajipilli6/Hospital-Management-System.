@@ -38,6 +38,7 @@ public class HospitalManagementSystem
 				System.out.println("5. View Appointment");
 				System.out.println("6. Exit");
 				System.out.println("Enter your Choice: ");
+				System.out.println();
 				int choice =scanner.nextInt();
 
 				switch(choice)
